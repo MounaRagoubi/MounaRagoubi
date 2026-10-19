@@ -1,6 +1,6 @@
 # Mouna Ragoubi
 
-Computer Engineering student at HEIG-VD in Switzerland, specializing in Networks & Systems.
+Étudiante en ingénierie informatique à la HEIG-VD en Suisse, spécialisée en réseaux et systèmes.
 
 ## Technical Interests
 - IT Infrastructure
