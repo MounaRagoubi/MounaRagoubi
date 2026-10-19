@@ -1,16 +1,29 @@
-## Hi there 👋
+# Mouna Ragoubi
 
-<!--
-**MounaRagoubi/MounaRagoubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at HEIG-VD in Switzerland, specializing in Networks & Systems.
 
-Here are some ideas to get you started:
+## Technical Interests
+- IT Infrastructure
+- Linux & System Administration
+- Networking
+- Cloud Technologies
+- DevOps
+- Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+- C
+- C++
+- Python
+
+## Currently Learning
+- Linux Administration
+- Networking
+- Cloud & DevOps Fundamentals
+- Infrastructure Automation
+
+## Projects
+Projects in systems, networking, and automation will be added progressively.
+
+## Contact
+- LinkedIn: [Mouna Ragoubi](www.linkedin.com/in/mouna-ragoubi-159aa922b)
+  
